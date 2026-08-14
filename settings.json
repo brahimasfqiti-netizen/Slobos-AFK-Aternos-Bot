@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "botafk24h10",
-    "password": "",
+    "username": "matrix_bot_noro",
+    "password": "matrixxnetwork.play.hosting",
     "type": "offline"
   },
   "server": {
-    "ip": "moroccoosmp.aternos.me",
+    "ip": "",
     "port": 53982,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a a noro frend",
+        "noro es the beast devloper",
+        "paly or i kill you "
       ]
     },
     "chat-log": true,
