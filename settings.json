@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "matrix_bot_noro",
-    "password": "matrixxnetwork.play.hosting",
+    "username": "botnoro",
+    "password": "brahim",
     "type": "offline"
-  },
+  
   "server": {
-    "ip": "",
-    "port": 35597,
+    "ip": "144.76.173.126",
+    "port": 26450,
     "version": "",
     "try-creative": false
   },
